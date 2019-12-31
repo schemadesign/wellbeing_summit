@@ -1,6 +1,6 @@
 # wellbeing_summit
 
-Written in Processing (Processing.org)
+Written in [Processing](Processing.org)
 
 Uses the Ani and Box2D libraries which can be installed via the Processing IDE.
 
