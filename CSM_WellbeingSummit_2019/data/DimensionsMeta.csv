@@ -1,0 +1,7 @@
+Name,Text (ARGB),Circle (ARGB),Background (ARGB),bin A (ARGB),bin B (ARGB),Definition,Findings,icons (unused)
+Community,FF0852D2,FF57D0FD,FF002E79,FF6C95FF,FF57D0FD,community/communityDefinition.txt,community/communityFindings.csv,Community.png
+Place & Planet,FF009217,FFB7E444,FF06510A,FF1DCA53,FFB7E444,place/placeDefinition.txt,place/placeFindings.csv,Place_Planet.png
+Outlook,FF3C1BB5,FF9992FF,FF2D0058,FF7066FF,FF9992FF,outlook/outlookDefinition.txt,outlook/outlookFindings.csv,Outlook.png
+Health,FFF04B65,FFFFA1B0,FF670542,FFFF66A5,FFFFA1B0,health/healthDefinition.txt,health/healthFindings.csv,Health.png
+Learning,FFD64821,FFFF8660,FF800000,FFFF7575,FFFF8660,learning/learningDefinition.txt,learning/learningFindings.csv,Learning.png
+Economic Opportunity,FFD77404,FFFFC943,FFB04407,FFFFA043,FFFFC943,economy/economyDefinition.txt,economy/economyFindings.csv,Economic_Opportunity.png
