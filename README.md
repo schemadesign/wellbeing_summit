@@ -1,7 +1,7 @@
-# wellbeing_summit
+# City of Santa Monica Wellbeing Summit 
 
-Written in [Processing](Processing.org)
+This software displays findings from the CSM 2019 Wellbeing Index Survey, developed and curated by Schema Design and it's associates.
 
-Uses the Ani and Box2D libraries which can be installed via the Processing IDE.
+It is written in [Processing](Processing.org) and uses the [Ani](http://www.looksgood.de/libraries/Ani/) and [Box2D for Processing](https://github.com/shiffman/Box2D-for-Processing) libraries which can be installed via the Processing IDE.
 
 Look for flags in the main file for turning on and off RECORD mode for recording frames, and DEV mode for local development.
